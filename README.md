@@ -1,1 +1,1 @@
-# Typing_Quiz_Game
+# Typing Quiz Game
