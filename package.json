@@ -7,7 +7,7 @@
   "dependencies": {
     "@material-ui/core": "4.4.0",
    "axios": ">=0.21.1",
-    "express": "4.17.1",
+    "express": "4.19.2",
     "firebase": "6.5.0",
     "mongodb": "3.3.2",
     "nodemon": "1.19.1",
